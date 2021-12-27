@@ -9,10 +9,10 @@ body, html {
   flex-direction: column;
   text-align: center;
   width: 100%;
-  height: 100vh; 
+  height: 110vh; 
   overflow: hidden;
   background-size: cover !important;
-  background: url(background.jpg) no-repeat center center scroll;
+  background: url(background3.jpeg) no-repeat center center scroll;
 }
 
 .answers {
